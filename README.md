@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 Currently I am:
 - 🔭 Exploring the biomed tech and autonomous vehicle world, if you want to collaborate, reach out to me on [linkedin](https://www.linkedin.com/in/1lokeshpatel/)!
-- ☀️ Programming exoskeletons @ [Trexo Robotics](https://trexorobotics.com/) as a Robotics Software intern
-- 🌱 Studying mechatronics engineering @ [uWaterloo](https://uwaterloo.ca/)
+- ☀️ Programming exoskeletons at [Trexo Robotics](https://trexorobotics.com/) as a Robotics Software intern
+- 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
 In the past I have:
-- 🦾 Interned @ [Kindred](https://www.kindred.ai/) on the Motion Platform team in Summer 2022
-- 💡 Introduced youth to the tech world @ [Youth Computing](https://youthcomputing.ca/)
+- 🦾 Interned at [Kindred](https://www.kindred.ai/) on the Motion Platform team in Summer 2022
+- 💡 Introduced youth to the tech world at [Youth Computing](https://youthcomputing.ca/)
 
 Learn more about me by checking out my [website!](https://www.lokeshpatel.ca/)
 
