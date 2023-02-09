@@ -14,6 +14,8 @@ In the past I have:
 - 🦾 Interned at [Kindred](https://www.kindred.ai/) on the Motion Platform team in Summer 2022
 - 💡 Introduced youth to the tech world at [Youth Computing](https://youthcomputing.ca/)
 
+Learn more about me by checking out my [website!](https://www.lokeshpatel.ca/)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lokeshpatel&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
