@@ -11,7 +11,7 @@ Currently I am:
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
 In the past I have:
-- 🦾 Interned at [Kindred](https://www.kindred.ai/) on the Motion Platform team in Summer 2022
+- 🦾 Interned at [Kindred](https://www.kindred.ai/) on the Motion Platform team (Summer 2022)
 - 💡 Introduced youth to the tech world at [Youth Computing](https://youthcomputing.ca/)
 
 Learn more about me by checking out my [website!](https://www.lokeshpatel.ca/)
