@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 Currently I am:
 - 🔭 Exploring the biomed tech and autonomous vehicle world, if you want to collaborate, reach out to me on [linkedin](https://www.linkedin.com/in/1lokeshpatel/)!
-- ☀️ Programming exoskeletons [Trexo Robotics](https://trexorobotics.com/)
+- ☀️ Programming exoskeletons [Trexo Robotics](https://trexorobotics.com/) as a Robotics Software intern
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
 In the past I have:
