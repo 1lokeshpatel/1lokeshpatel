@@ -17,6 +17,6 @@ In the past I have:
 Learn more about me by checking out my [website!](https://www.lokeshpatel.ca/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lokeshpatel&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lokeshpatel)](https://github.com/1lokeshpatel/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=KhushPatel2003&color=blue)</h1> 
+![](https://komarev.com/ghpvc/?username=1lokeshpatel&color=blue)</h1> 
