@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 Currently I am:
-- 🔭 Exploring the world of medtech and autonomous vehicles!
+- 🔭 Exploring the world of medical tech, autonomous vehicles, and robotics in general!
 - ☀️ Programming exoskeletons at [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
