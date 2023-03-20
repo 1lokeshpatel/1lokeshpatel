@@ -16,7 +16,4 @@ In the past I have:
 
 Would love to chat about cool tech with cool people, reach out to me on [linkedin](https://www.linkedin.com/in/1lokeshpatel/) or learn more about me on my [website](https://www.lokeshpatel.ca/)!
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lokeshpatel)](https://github.com/1lokeshpatel/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=1lokeshpatel&color=blue)</h1> 
