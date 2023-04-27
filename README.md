@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 Currently I am:
 - 🔭 Exploring the world of medical tech, autonomous vehicles, and robotics!
-- ☀️ Programming exoskeletons at [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
 In the past I have:
+- ☀️ Programming exoskeletons at [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
 - 🦾 Developed motion planning and simulation tools at [Kindred](https://www.kindred.ai/) (Intern - Summer 2022)
 - 💡 Introduced youth to the tech world at [Youth Computing](https://youthcomputing.ca/) (Projects Director)
 
