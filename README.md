@@ -6,13 +6,14 @@
 Here are some ideas to get you started:
 -->
 Currently I am:
+- 🤖 Developing controls software for humanoid robots @ [Sanctuary AI](https://sanctuary.ai/) (Intern - Fall 2023)
 - 🔭 Exploring the world of medical tech, autonomous vehicles, and robotics!
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
 In the past I have:
-- ☀️ Programming exoskeletons at [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
-- 🦾 Developed motion planning and simulation tools at [Kindred](https://www.kindred.ai/) (Intern - Summer 2022)
-- 💡 Introduced youth to the tech world at [YouthComputing](https://youthcomputing.ca/) (Executive Director)
+- ☀️ Programming exoskeletons @ [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
+- 🦾 Developed motion planning and simulation tools @ [Kindred AI](https://www.kindred.ai/) (Intern - Summer 2022)
+- 💡 Introduced youth to the tech world @ [YouthComputing](https://youthcomputing.ca/) (Executive Director)
 
 Would love to chat about cool tech with cool people, reach out to me on [linkedin](https://www.linkedin.com/in/1lokeshpatel/) or learn more about me on my [website](https://www.lokeshpatel.ca/)!
 
