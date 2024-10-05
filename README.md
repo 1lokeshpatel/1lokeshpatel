@@ -11,9 +11,9 @@ Currently I am:
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
 In the past I have:
-- ☀️ Making robotics more accessible at [Intrinsic](https://www.intrinsic.ai/) (Intern - Summer 2024)
-- 🤖 Developing controls software for humanoid robots @ [Sanctuary AI](https://sanctuary.ai/) (Intern - Fall 2023)
-- 🚶🏽 Programming exoskeletons @ [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
+- ☀️ Made robotics more accessible at [Intrinsic](https://www.intrinsic.ai/) (Intern - Summer 2024)
+- 🤖 Developed controls software for humanoid robots @ [Sanctuary AI](https://sanctuary.ai/) (Intern - Fall 2023)
+- 🚶🏽 Programmed exoskeletons @ [Trexo Robotics](https://trexorobotics.com/) (Intern - Winter 2023)
 - 🦾 Developed motion planning and simulation tools @ [Kindred AI](https://www.kindred.ai/) (Intern - Summer 2022)
 - 💡 Introduced youth to the tech world @ [YouthComputing](https://youthcomputing.ca/) (Executive Director)
 
