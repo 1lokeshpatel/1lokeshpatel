@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 Currently I am:
-- Actively searching for 2025 internships!
 - 🔭 Exploring the world of medical tech, autonomous vehicles, and robotics!
 - 🌱 Studying mechatronics engineering at [uWaterloo](https://uwaterloo.ca/)
 
