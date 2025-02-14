@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 Currently I am:
 - 🔭 Exploring the world of robotics!
 - 🌱 Studying mechatronics engineering @ [uWaterloo](https://uwaterloo.ca/)
-- Working on all things robotics @ [Reazon Human Interaction Lab](https://research.reazon.jp/)!
+- Working on all things robotics @ [Reazon Human Interaction Lab](https://research.reazon.jp/)! (Intern - Winter 2025)
 
 In the past I have:
 - ☀️ Made robotics more accessible @ [Intrinsic](https://www.intrinsic.ai/) (Intern - Summer 2024)
