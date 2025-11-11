@@ -18,6 +18,6 @@ In the past I have:
 - 🦾 Developed motion planning and simulation tools @ [Kindred AI](https://ocadointelligentautomation.com/) (Intern - Summer 2022)
 - 💡 Introduced youth to the tech world @ [YouthComputing](https://youthcomputing.ca/) (Executive Director)
 
-Would love to chat about cool tech with cool people, reach out to me on [linkedin](https://www.linkedin.com/in/1lokeshpatel/)!
+Would love to chat about cool tech with cool people, reach out to me on [linkedin](https://www.linkedin.com/in/1lokeshpatel/) or lokesh.patel@uwaterloo.ca!
 
 ![](https://komarev.com/ghpvc/?username=1lokeshpatel&color=blue)</h1> 
